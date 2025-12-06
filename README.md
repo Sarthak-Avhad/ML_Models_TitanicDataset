@@ -23,19 +23,6 @@ Final model selection and predictions
 
 
 
-
-
-
-📊 Model Evaluation
-
-Evaluation metrics used:
-
-Accuracy Score
-
-Confusion Matrix
-
-Precision, Recall, F1-Score
-
 Cross-Validation Score
 
 
